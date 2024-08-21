@@ -28,7 +28,7 @@ O projeto é composto pelos seguintes arquivos principais:
 
 1. **Clone o Repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/mikelj917/Dragon-Gallery.git
    ```
 2. **Abra o Arquivo `index.html`**:
    - Navegue até o diretório do projeto e abra o arquivo `index.html` no seu navegador.
